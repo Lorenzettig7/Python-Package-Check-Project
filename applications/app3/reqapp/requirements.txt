@@ -1,0 +1,7 @@
+Django
+urllib3
+whitenoise
+pyjwt
+pandas
+numpy
+django

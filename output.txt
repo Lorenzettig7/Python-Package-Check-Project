@@ -1,0 +1,46 @@
+***** Application Name: app1 *****
+
+Approved Packages:
+Django
+flask
+fastapi
+fasttext
+faker
+falcon
+flask
+flask-restful
+
+Unapproved Packages:
+django-cors-headers
+django-filter
+
+
+***** Application Name: app2 *****
+
+Approved Packages:
+Django
+
+Unapproved Packages:
+django-cors-headers
+psycopg2-binary
+pycparser
+PyNaCl
+python-dateutil
+
+
+***** Application Name: app3 *****
+
+Approved Packages:
+Django
+pandas
+numpy
+django
+
+Unapproved Packages:
+urllib3
+whitenoise
+pyjwt
+
+
+
+No requirements.txt file Apps: app4
