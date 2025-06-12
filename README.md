@@ -16,9 +16,11 @@ Setup Instructions
 This project checks for unauthorized or unexpected Python packages in a given environment. It can be used for basic integrity checks or lightweight security audits.
 * Clone the repository
 * git clone https://github.com/Lorenzettig7/Python-Package-Check-Project.git
-* cd Python-Package-Check-Project 
-* Install dependencies (if a requirements.txt file is included) pip install -r requirements.txt 
-* Run the script python package_check.py 
+*    cd Python-Package-Check-Project 
+* Install dependencies (if a requirements.txt file is included)
+*     pip install -r requirements.txt 
+* Run the script
+*     python package_check.py 
 * What it does
     * Lists all currently installed Python packages
     * Optionally compares them against a known-good list
